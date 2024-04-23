@@ -175,6 +175,7 @@ This list aims to be a curated set of free high quality educational resources to
 This list aims to be a curated set of paid high quality educational resources to learn how to program. If available
 the cost of each program is highlighted below each item.
 
+- [Codeworks](https://www.codeworks.me/) - Immersive Software Engineering bootcamp focused on Javascript. Prices from **6,800€ to 14,800$**
 - [Code Institute](https://www.codeinstitute.net/) - Full stack Web developent Accredited bootcamp.
 - [Vertabelo Academy](https://academy.vertabelo.com/) - Focuses on SQL. Has some free plans. Prices start from **$19 per course**.
 - [General Assembly](https://generalassemb.ly/) - Focuses on HTML, CSS, Javascript. Prices start from **$1,250 per course or £25 per event**
